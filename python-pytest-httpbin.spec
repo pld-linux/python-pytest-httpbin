@@ -7,7 +7,7 @@ Summary:	py.test plugin to test HTTP libraries against a local copy of httpbin
 Summary(pl.UTF-8):	Wtyczka py.test do testowania bibliotek HTTP względem lokalnej kopii httpbin
 Name:		python-pytest-httpbin
 Version:	0.2.3
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.python.org/simple/pytest-httpbin/
